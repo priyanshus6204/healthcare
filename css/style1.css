@@ -1,0 +1,14 @@
+*{
+margin:0px;
+padding:0px;
+font-family: Century Gothic;
+}
+
+.header1{
+  padding: 20px;
+  text-align: center;
+}
+.questions{
+	width:1170px;
+	margin:auto;
+}
